@@ -1,0 +1,20 @@
+{
+    "pluginname": "",
+    "privacy:metadata:lytix_logs_aggregated_logs": "",
+    "privacy:metadata:lytix_logs_aggregated_logs:contextid": "",
+    "privacy:metadata:lytix_logs_aggregated_logs:courseid": "",
+    "privacy:metadata:lytix_logs_aggregated_logs:day": "",
+    "privacy:metadata:lytix_logs_aggregated_logs:duration": "",
+    "privacy:metadata:lytix_logs_aggregated_logs:target": "The target of the analysis",
+    "privacy:metadata:lytix_logs_aggregated_logs:userid": "",
+    "privacy:metadata:lytix_logs_logs": "",
+    "privacy:metadata:lytix_logs_logs:contextid": "",
+    "privacy:metadata:lytix_logs_logs:courseid": "",
+    "privacy:metadata:lytix_logs_logs:meta": "This is a meta analysis",
+    "privacy:metadata:lytix_logs_logs:target": "The target of the analysis",
+    "privacy:metadata:lytix_logs_logs:targetid": "",
+    "privacy:metadata:lytix_logs_logs:timestamp": "",
+    "privacy:metadata:lytix_logs_logs:type": "",
+    "privacy:metadata:lytix_logs_logs:userid": "",
+    "privacy:metadata:lytix_logs_logs:widget": "The programme cosists of several smaller widgets."
+}

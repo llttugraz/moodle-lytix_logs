@@ -15,33 +15,29 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Activity plugin for lytix
+ * Language file de.
  *
- * @package    lytix_logs
- * @author     Viktoria Wieser
- * @copyright  2020 Educational Technologies, Graz, University of Technology
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @package lytix_logs
+ * @author Moodle plugin: Language strings translator (local_translatelangstr) - automatically generated file
+ * @copyright 2025 Educational Technologies, Graz, University of Technology
+ * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 $string['pluginname'] = 'Lytix Logs';
-$string['privacy:metadata:lytix_logs_aggregated_logs'] = "In order to track all activities of the users , we\
- need to save some user related data";
-$string['privacy:metadata:lytix_logs_aggregated_logs:contextid'] = "Contextid";
-$string['privacy:metadata:lytix_logs_aggregated_logs:courseid'] = "The course ID will be saved for knowing to which \course
- the data belongs to";
-$string['privacy:metadata:lytix_logs_aggregated_logs:day'] = "Tag";
-$string['privacy:metadata:lytix_logs_aggregated_logs:duration'] = "Dauer";
-$string['privacy:metadata:lytix_logs_aggregated_logs:target'] = "Ziel";
-$string['privacy:metadata:lytix_logs_aggregated_logs:userid'] = "The user ID will be saved for uniquely identifying the user";
-$string['privacy:metadata:lytix_logs_logs'] = "In order to track all activities of the users , we\
- need to save some user related data";
-$string['privacy:metadata:lytix_logs_logs:contextid'] = "Contextid";
-$string['privacy:metadata:lytix_logs_logs:courseid'] = "The course ID will be saved for knowing to which \course
- the data belongs to";
-$string['privacy:metadata:lytix_logs_logs:meta'] = "Meta";
-$string['privacy:metadata:lytix_logs_logs:target'] = "Ziel";
-$string['privacy:metadata:lytix_logs_logs:targetid'] = "Zielid";
-$string['privacy:metadata:lytix_logs_logs:timestamp'] = "Zeitstempel";
-$string['privacy:metadata:lytix_logs_logs:type'] = "Typ";
-$string['privacy:metadata:lytix_logs_logs:userid'] = "The user ID will be saved for uniquely identifying the user";
-$string['privacy:metadata:lytix_logs_logs:widget'] = "Widget";
+$string['privacy:metadata:lytix_logs_aggregated_logs'] = 'Um alle Aktivitäten der Nutzer:innen zu verfolgen, müssen wir einige benutzerbezogene Daten speichern';
+$string['privacy:metadata:lytix_logs_aggregated_logs:contextid'] = 'Kontext-ID';
+$string['privacy:metadata:lytix_logs_aggregated_logs:courseid'] = 'Die Kurs-ID wird gespeichert, um zu wissen, zu welchem Kurs die Daten gehören.';
+$string['privacy:metadata:lytix_logs_aggregated_logs:day'] = 'Tag';
+$string['privacy:metadata:lytix_logs_aggregated_logs:duration'] = 'Dauer';
+$string['privacy:metadata:lytix_logs_aggregated_logs:target'] = 'Ziel';
+$string['privacy:metadata:lytix_logs_aggregated_logs:userid'] = 'Die User-ID wird gespeichert, um die Person eindeutig zu identifizieren.';
+$string['privacy:metadata:lytix_logs_logs'] = 'Um alle Aktivitäten der Nutzer:innen zu verfolgen, müssen wir einige benutzerbezogene Daten speichern';
+$string['privacy:metadata:lytix_logs_logs:contextid'] = 'Kontext-ID';
+$string['privacy:metadata:lytix_logs_logs:courseid'] = 'Die Kurs-ID wird gespeichert, um zu wissen, zu welchem Kurs die Daten gehören.';
+$string['privacy:metadata:lytix_logs_logs:meta'] = 'Meta';
+$string['privacy:metadata:lytix_logs_logs:target'] = 'Ziel';
+$string['privacy:metadata:lytix_logs_logs:targetid'] = 'Ziel-ID';
+$string['privacy:metadata:lytix_logs_logs:timestamp'] = 'Zeitstempel';
+$string['privacy:metadata:lytix_logs_logs:type'] = 'Typ';
+$string['privacy:metadata:lytix_logs_logs:userid'] = 'Die User-ID wird gespeichert, um die Person eindeutig zu identifizieren.';
+$string['privacy:metadata:lytix_logs_logs:widget'] = 'Widget';
