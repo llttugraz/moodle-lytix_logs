@@ -24,16 +24,14 @@
  */
 
 $string['pluginname'] = 'Lytix Logs';
-$string['privacy:metadata:lytix_logs_aggregated_logs'] = 'Um alle Aktivitäten der Nutzer:innen zu verfolgen, müssen wir
- einige benutzerbezogene Daten speichern';
+$string['privacy:metadata:lytix_logs_aggregated_logs'] = 'Um alle Aktivitäten der Nutzer:innen zu verfolgen, müssen wir einige benutzerbezogene Daten speichern';
 $string['privacy:metadata:lytix_logs_aggregated_logs:contextid'] = 'Kontext-ID';
 $string['privacy:metadata:lytix_logs_aggregated_logs:courseid'] = 'Die Kurs-ID wird gespeichert, um zu wissen, zu welchem Kurs die Daten gehören.';
 $string['privacy:metadata:lytix_logs_aggregated_logs:day'] = 'Tag';
 $string['privacy:metadata:lytix_logs_aggregated_logs:duration'] = 'Dauer';
 $string['privacy:metadata:lytix_logs_aggregated_logs:target'] = 'Ziel';
 $string['privacy:metadata:lytix_logs_aggregated_logs:userid'] = 'Die User-ID wird gespeichert, um die Person eindeutig zu identifizieren.';
-$string['privacy:metadata:lytix_logs_logs'] = 'Um alle Aktivitäten der Nutzer:innen zu verfolgen, müssen wir
- einige benutzerbezogene Daten speichern';
+$string['privacy:metadata:lytix_logs_logs'] = 'Um alle Aktivitäten der Nutzer:innen zu verfolgen, müssen wir einige benutzerbezogene Daten speichern';
 $string['privacy:metadata:lytix_logs_logs:contextid'] = 'Kontext-ID';
 $string['privacy:metadata:lytix_logs_logs:courseid'] = 'Die Kurs-ID wird gespeichert, um zu wissen, zu welchem Kurs die Daten gehören.';
 $string['privacy:metadata:lytix_logs_logs:meta'] = 'Meta';
